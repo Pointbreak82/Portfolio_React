@@ -1,7 +1,7 @@
 const about = {
   title: "Heyy 👋 , I am Tarun V G.",
   description:
-    "Tech-savvy optimist with a can-do attitude. Thrives in fast-paced environments, embraces challenges. Adept at communication and collaboration. Let's make a positive impact! 🚀✨",
+    "Hey there! I'm a tech-savvy optimist, currently pursuing my post-graduation in Data Science at Christ University, Bangalore. I thrive in fast-paced environments, embracing challenges with gusto. Adept at communication and collaboration, I'm all about making a positive impact! ✨🚀",
   github: "https://github.com/Pointbreak82",
   linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
   cv: "https://drive.google.com/file/d/1BFUvDKsDPIEsq3SFRR5Jl7O-_JsKCIED/view?usp=sharing", 
