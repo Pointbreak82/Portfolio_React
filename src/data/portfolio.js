@@ -1,35 +1,36 @@
 const about = {
-  title: "Heyy 👋 , I am Ashik Sanyo.",
+  title: "Heyy 👋 , I am Tarun V G.",
   description:
-    "I'm a Tech enthusiast living in Bangalore, India. I love to solve problems and build things. Also an Ex-TCSer and presently a Post grad Data Science student at Christ University!",
-  github: "https://github.com/ashiksanyo10",
-  linkedin: "https://www.linkedin.com/in/ashiksanyo/",
-  cv: "https://drive.google.com/file/d/1fiYlv7Ou0tKWSdUlQwpc5Ye3hDEya3kK/view?usp=sharing", 
+    "Tech-savvy optimist with a can-do attitude. Thrives in fast-paced environments, embraces challenges. Adept at communication and collaboration. Let's make a positive impact! 🚀✨",
+  github: "https://github.com/Pointbreak82",
+  linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
+  cv: "https://drive.google.com/file/d/1Ahw4W9tRW_Kf812XEipysEIuqNGKwLJD/view?usp=sharing", 
 };
 
 const projects = {
   title: "Projects",
   personalProjects: [
     {
-      title: "Ukraine Russia War Data Analysis ",
+      title: "Performance Evaluation of Convolutional Neural Networks for Stellar Image Classification: A Comparative Study",
       short:
         "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
-        "2022 Ukraine Russia War Exploratory Data Analysis, Analysis was done on the day 167 of the war ",
-      technologies: ["Python"],
-      github: "https://github.com/ashiksanyo10/Russia-Ukraine_War_EDA",
-      demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
+        "Evaluated three CNN models (ResNet, Parallel CNN, VGG16) for classifying celestial objects in the Star-Galaxy Classification dataset. Provided insights fordeveloping accurate CNN models in astronomy.",
+      technologies: ["Python","TensorFlow","Scikit-learn","Keras"],
+      github: "https://github.com/Pointbreak82/Star-Galaxy-Classification",
+      //demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
     },
     {
-      title: "Drone Detection - YOLOv8",
+      title: "NarrativAI : Story and Poem Generating Tool",
       short:
         "Using YOLOv8 to Unmanned aerial vehicle",
       description:
-        "An image Classification model using YOLO, which is trained on custom dataset",
-      technologies: ["Python"],
-      github: "https://github.com/ashiksanyo10/DroneXYOLOv8.git",
-      demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
+        "Developed NarrativAI, combining OpenAI's language model with Gradio's user-friendly interface. Enables effortless creation of captivating stories and evocative poems. Showcases proficiency in natural language processing and user interface design.",
+      technologies: ["Python","NLP"],
+      github: "https://github.com/Pointbreak82/NarrativAI",
+      //demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
     },
+    /*
     {
       title: "PowerBI Dashboards",
       short:
@@ -44,18 +45,19 @@ const projects = {
       demo: "https://www.novypro.com/project/us-sales-dash",
 
     },
+    */
   ],
 };
 
 const experience = {
-  title: "Experience",
+  title: "Internship",
   experiences: [
     {
-      title: "System Engineer (SE)",
-      company: "Tata Consultancy Services",
-      duration: "Jun 2021 - July 2022",
+      title: "Generative AI",
+      company: "Open Weaver",
+      duration: "June 2023",
       description:
-        "I've worked as an Assistant System Engineer with the core responsibilty as supporting Client project with networks and server aspects. ",
+        "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. And as a project, I built NarrativAI which generates Stories and poems.",
     },
   ],
 };
@@ -70,15 +72,16 @@ const skills = {
        "Python,",
         "C,",
         "HTML,",
-        "CSS,",
-        "JavaScript",
-        "SQL"
+        "Java,",
+        "R",
+        "SQL",
+        "MATLAB"
 
       ],
     },
     {
       title: "Tools & IDE",
-      skills: ["Anaconda Navigator,","Visual Studio Code,", "PowerBi,","Talend Studio",],
+      skills: ["Visual Studio Code,", "PowerBI,","Excel","Tableau"],
     },
     {
       title: "Others",
