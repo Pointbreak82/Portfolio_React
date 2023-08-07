@@ -73,8 +73,8 @@ const skills = {
         "C,",
         "HTML,",
         "Java,",
-        "R",
-        "SQL",
+        "R,",
+        "SQL,",
         "MATLAB"
 
       ],
