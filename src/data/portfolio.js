@@ -83,10 +83,12 @@ const skills = {
       title: "Tools & IDE",
       skills: ["Visual Studio Code,", "PowerBI,","Excel","Tableau"],
     },
+    /*
     {
       title: "Others",
       skills: ["Adobe Creative Suit,", "Blender,", "SparkAR,",],
     },
+    */
   ],
 };
 
