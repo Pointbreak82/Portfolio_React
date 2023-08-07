@@ -4,7 +4,7 @@ const about = {
     "Tech-savvy optimist with a can-do attitude. Thrives in fast-paced environments, embraces challenges. Adept at communication and collaboration. Let's make a positive impact! 🚀✨",
   github: "https://github.com/Pointbreak82",
   linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
-  cv: "https://drive.google.com/file/d/1pZExJBEUS4ewKya_rFdqo89tEGrDqIgb/view?usp=sharing", 
+  cv: "https://drive.google.com/file/d/1BFUvDKsDPIEsq3SFRR5Jl7O-_JsKCIED/view?usp=sharing", 
 };
 
 const projects = {
