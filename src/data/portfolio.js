@@ -25,7 +25,7 @@ const projects = {
       //short:
        // "Using YOLOv8 to Unmanned aerial vehicle",
       description:
-        "Developed NarrativAI, combining OpenAI's language model with Gradio's user-friendly interface. Enables effortless creation of captivating stories and evocative poems. Showcases proficiency in natural language processing and user interface design.",
+        "Developed NarrativAI, A Easy storytelling and poetic creation with OpenAI's language model and Gradio's user-friendly interface.",
       technologies: ["Python","NLP"],
       github: "https://github.com/Pointbreak82/NarrativAI",
       //demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
