@@ -6,7 +6,7 @@ const Contact = () => {
     <section className="contact" id="contact">
       <div className="contact-me">
         <h1>
-          <a href="mailto:ashiksanyo01@gmail.com">
+          <a href="mailto:tarunvg2002@gmail.com">
             Contact me
             <RiSendPlaneFill className="icon" size={30} />
           </a>
