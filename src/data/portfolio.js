@@ -11,7 +11,7 @@ const projects = {
   title: "Projects",
   personalProjects: [
     {
-      title: "Performance Evaluation of Convolutional Neural Networks for Stellar Image Classification: A Comparative Study",
+      title: "Comparative Analysis of CNNs for Stellar Image Classification.",
       //short:
        // "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
