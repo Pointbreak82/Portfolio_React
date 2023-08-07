@@ -12,8 +12,8 @@ const projects = {
   personalProjects: [
     {
       title: "Performance Evaluation of Convolutional Neural Networks for Stellar Image Classification: A Comparative Study",
-      short:
-        "2022 Ukraine Russia War Exploratory Data Analysis.",
+      //short:
+       // "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
         "Evaluated three CNN models (ResNet, Parallel CNN, VGG16) for classifying celestial objects in the Star-Galaxy Classification dataset. Provided insights fordeveloping accurate CNN models in astronomy.",
       technologies: ["Python","TensorFlow","Scikit-learn","Keras"],
@@ -22,8 +22,8 @@ const projects = {
     },
     {
       title: "NarrativAI : Story and Poem Generating Tool",
-      short:
-        "Using YOLOv8 to Unmanned aerial vehicle",
+      //short:
+       // "Using YOLOv8 to Unmanned aerial vehicle",
       description:
         "Developed NarrativAI, combining OpenAI's language model with Gradio's user-friendly interface. Enables effortless creation of captivating stories and evocative poems. Showcases proficiency in natural language processing and user interface design.",
       technologies: ["Python","NLP"],
