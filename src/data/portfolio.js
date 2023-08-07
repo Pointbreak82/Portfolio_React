@@ -15,7 +15,7 @@ const projects = {
       //short:
        // "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
-        "Evaluated three CNN models (ResNet, Parallel CNN, VGG16) for classifying celestial objects in the Star-Galaxy Classification dataset. Provided insights fordeveloping accurate CNN models in astronomy.",
+        "Evaluated ResNet, Parallel CNN, and VGG16 on Star-Galaxy Classification dataset to classify celestial objects. Offered insights for accurate astronomy CNN models.",
       technologies: ["Python","TensorFlow","Scikit-learn","Keras"],
       github: "https://github.com/Pointbreak82/Star-Galaxy-Classification",
       //demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
