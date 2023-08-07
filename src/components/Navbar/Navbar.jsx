@@ -48,7 +48,7 @@ const mobileMenu = (toggleTheme, theme) => {
 };
 
 const Navbar = ({ toggleTheme, theme }) => {
-  const logo = "{AS}.";
+  const logo = "{TVG}.";
   return (
     <header>
       <nav className="navbar">
