@@ -15,7 +15,7 @@ const About = () => {
         <a href={linkedin} target="_blank">
           <FaLinkedinIn className="icon" size={30} />
         </a>
-        <a href="https://drive.google.com/file/d/1BFUvDKsDPIEsq3SFRR5Jl7O-_JsKCIED/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/1UMhpYE13Go1VKzEa04ltANRbkNDpKhIe/view?usp=sharing" target="_blank">
           Download CV
         </a>
       </div>
