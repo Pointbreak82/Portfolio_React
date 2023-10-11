@@ -4,7 +4,7 @@ const about = {
     "I'm a tech-savvy optimist, currently pursuing my post-graduation in Data Science at Christ University, Bangalore. I thrive in fast-paced environments, embracing challenges with gusto. Adept at communication and collaboration, I'm all about making a positive impact! ✨🚀",
   github: "https://github.com/Pointbreak82",
   linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
-  cv: "https://drive.google.com/file/d/1UMhpYE13Go1VKzEa04ltANRbkNDpKhIe/view?usp=sharing", 
+  cv: "https://drive.google.com/file/d/1YE-CXJwhmCtyQ3S2asik7Icy4s-otaTA/view?usp=sharing", 
 };
 
 const projects = {
