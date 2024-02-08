@@ -10,10 +10,33 @@ const about = {
 const projects = {
   title: "Projects",
   personalProjects: [
+
+      {
+      title: "Satellite Image Time Series Analysis for Crop Mapping",
+      description:
+        "Implemented U-Net model to perform semantic segmentation of Sentinel-2 data.This enabled effective land cover classification and geospatial information extraction",
+      technologies: [
+      "Scikit-learn", "Scikit-image", "PyTorch", "Python"
+      ],
+      github: "https://github.com/Pointbreak82/Satellite-Image-Time-Series",
+      //demo: "https://www.novypro.com/project/us-sales-dash",
+
+    },
+
+      {
+      title: "End to End Toxic Comment Classification",
+      description:
+        "Developed a user-friendly interface for real-time hate speech and toxic comment detection. Used a LSTM-based model categorizing toxic comments into six types.",
+      technologies: [
+      "TensorFlow", "Keras", "Streamlit", "Python"
+      ],
+      github: "https://github.com/Pointbreak82/Toxic-Comment-2",
+      //demo: "https://www.novypro.com/project/us-sales-dash",
+
+    },
+    
     {
       title: "Comparative Analysis of CNNs for Stellar Image Classification.",
-      //short:
-       // "2022 Ukraine Russia War Exploratory Data Analysis.",
       description:
         "Evaluated ResNet, Parallel CNN, and VGG16 on Star-Galaxy Classification dataset to classify celestial objects. Offered insights for accurate astronomy CNN models.",
       technologies: ["Python","TensorFlow","Scikit-learn"],
@@ -31,17 +54,7 @@ const projects = {
       //demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
     },
     
-    {
-      title: "Satellite Image Time Series Analysis for Crop Mapping",
-      description:
-        "Implemented U-Net model to analyze time series and perform semantic segmentation of Sentinel-2 remote sensing data.This enabled effective land cover classification and geospatial information extraction",
-      technologies: [
-      "Scikit-learn", "Scikit-image", "PyTorch", "Python"
-      ],
-      github: "https://github.com/Pointbreak82/Satellite-Image-Time-Series",
-      //demo: "https://www.novypro.com/project/us-sales-dash",
 
-    },
     
   ],
 };
