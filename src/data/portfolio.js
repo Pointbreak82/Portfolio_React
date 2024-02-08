@@ -18,7 +18,7 @@ const projects = {
         "Evaluated ResNet, Parallel CNN, and VGG16 on Star-Galaxy Classification dataset to classify celestial objects. Offered insights for accurate astronomy CNN models.",
       technologies: ["Python","TensorFlow","Scikit-learn"],
       github: "https://github.com/Pointbreak82/Star-Galaxy-Classification",
-      //demo: "https://www.kaggle.com/code/ashiksanyo/russia-ukraine-war-eda",
+      demo: "https://ieeexplore.ieee.org/abstract/document/10244794",
     },
     {
       title: "NarrativAI : Story and Poem Generating Tool",
@@ -30,22 +30,19 @@ const projects = {
       github: "https://github.com/Pointbreak82/NarrativAI",
       //demo: "https://github.com/ashiksanyo10/DroneXYOLOv8/blob/main/README.md",
     },
-    /*
+    
     {
-      title: "PowerBI Dashboards",
-      short:
-        "Portfolio containing dashboards and articles of several data-sets and scenarios.",
+      title: "Satellite Image Time Series Analysis for Crop Mapping",
       description:
-        "Developed a Business Intelligence portfolio with real-case reports showcasing data analysis expertise.",
+        "Implemented U-Net model to analyze time series and perform semantic segmentation of Sentinel-2 remote sensing data.This enabled effective land cover classification and geospatial information extraction",
       technologies: [
-        "PowerBI,",
-        "MS Excel,",
+      "Scikit-learn", "Scikit-image", "PyTorch", "Python"
       ],
-      github: "https://www.novypro.com/profile_projects/ashiksanyo",
-      demo: "https://www.novypro.com/project/us-sales-dash",
+      github: "https://github.com/Pointbreak82/Satellite-Image-Time-Series",
+      //demo: "https://www.novypro.com/project/us-sales-dash",
 
     },
-    */
+    
   ],
 };
 
