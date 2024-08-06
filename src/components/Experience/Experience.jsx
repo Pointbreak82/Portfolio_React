@@ -17,7 +17,7 @@ const Experience = () => {
               <p className="duration">{experience.duration}</p>
             </div>
             <ReactMarkdown className="experience-description">
-              {experience.description}
+              {experience.description[0]}
             </ReactMarkdown>
           </article>
         ))}
