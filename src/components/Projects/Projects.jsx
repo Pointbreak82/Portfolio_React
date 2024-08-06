@@ -24,11 +24,11 @@ const Projects = () => {
               <a href={project.github} target="_blank">
                 <FaGithub className="icon" size={30} />
               </a>
-              {/*
+              {
               <a href={project.demo} target="_blank">
                 <FaExternalLinkAlt className="icon" size={30} />
               </a>
-             */}
+             }
             </div>
           </article>
         ))}
