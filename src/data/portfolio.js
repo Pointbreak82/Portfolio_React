@@ -64,9 +64,9 @@ const experience = {
   experiences: [
     {  
       title: "AI Engineer",
-      company:"Go Academy/ Go Labs",
+      company: "Go Academy/ Go Labs",
       duration: "April 2024 - present",
-      descrption:[
+      description: [
         "Developed a YOLO-based pipeline for object detection in video frames, enabling keyword-based clip generation and summary creation, enhancing content analysis and annotation.",
         "Automated text extraction and summarization from PDFs and websites using open-source Large Language Models (LLMs) and advanced NLP techniques.",
         "Designed and optimized data pipelines using Python, MongoDB, and FastAPI, enhancing data handling and reporting efficiency. Applied data analysis and visualization techniques to generate insights, improving reporting accuracy.",
@@ -78,11 +78,9 @@ const experience = {
       title: "Generative AI",
       company: "Open Weaver",
       duration: "June 2023",
-      description:
-        "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. And as a project, I built NarrativAI which generates Stories and poems.",
+      description: "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. As a project, I built NarrativAI, which generates stories and poems."
     }
-  
-  ],
+  ]
 };
 
 const skills = {
