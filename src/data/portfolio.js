@@ -66,7 +66,7 @@ const experience = {
       title: "AI Engineer",
       company:"Go Academy/ Go Labs",
       duration: "April 2024 - present",
-      descrption:"
+      descrption:""
       
 
     },
@@ -86,14 +86,11 @@ const skills = {
   mySkills: [
     {
       title: "Programming Languages",
-      skills: [
-      "Python", "Java", "R", "SQL", "HTML", "C", "AWS", "Machine Learning", "Statistical Analysis", "Natural Language Processing", "Image and Video Analytics", "Deep Learning"
-      ],
+      skills: ["Python", "Java", "R", "SQL", "HTML", "C", "AWS", "Machine Learning", "Statistical Analysis", "Natural Language Processing", "Image and Video Analytics", "Deep Learning"],
     },
     {
       title: "Tools & IDE",
-      skills: ["Power BI", "Tableau", "MS Excel", "MongoDB", "ChromaDB", "FastAPI", "Flask", "PyTorch", "Keras", "Scikit-learn", "Hugging Face Transformers", "LangChain", "BeautifulSoup"
-],
+      skills: ["Power BI", "Tableau", "MS Excel", "MongoDB", "ChromaDB", "FastAPI", "Flask", "PyTorch", "Keras", "Scikit-learn", "Hugging Face Transformers", "LangChain", "BeautifulSoup"],
     },
     /*
     {
