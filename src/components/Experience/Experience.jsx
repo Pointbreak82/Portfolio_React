@@ -17,12 +17,7 @@ const Experience = () => {
               <p className="duration">{experience.duration}</p>
             </div>
             <ReactMarkdown className="experience-description">
-              <ul>
-              <li>{experience.description[0]}</li>
-               <li> {experience.description[1]}</li>
-                <li>{experience.description[2]}</li>
-                <li>{experience.description[3]}</li>
-                </ul>
+              {experience.description}
             </ReactMarkdown>
           </article>
         ))}
