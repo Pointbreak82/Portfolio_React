@@ -76,7 +76,7 @@ const experience = {
           accuracy.
         • Blog Recommendation System: Created a scalable recommendation system with Dask and BERT embeddings for semantic text
           analysis. Implemented ChromaDB and Flask API for scalable data querying and dynamic recommendations.
-        • NLP&AIExploration: Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications.
+        • NLP & AIExploration: Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications.
         `
     },
     
