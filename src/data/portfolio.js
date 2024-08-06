@@ -79,7 +79,7 @@ const experience = {
       title: "Generative AI",
       company: "Open Weaver",
       duration: "June 2023",
-      description: "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. As a project, I built NarrativAI, which generates stories and poems."
+      description: ["Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. As a project, I built NarrativAI, which generates stories and poems."]
     }
   ]
 };
