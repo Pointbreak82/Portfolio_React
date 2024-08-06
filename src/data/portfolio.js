@@ -73,8 +73,6 @@ const experience = {
         "Created a scalable recommendation system with Dask and BERT embeddings for semantic text analysis. Implemented ChromaDB and Flask API for scalable data querying and dynamic recommendations.",
         "Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications."
       ]
-      
-
     },
     {
       title: "Generative AI",
