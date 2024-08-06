@@ -66,20 +66,14 @@ const experience = {
       title: "AI Engineer",
       company: "Go Academy/ Go Labs",
       duration: "April 2024 - present",
-      description: [
-        "Developed a YOLO-based pipeline for object detection in video frames, enabling keyword-based clip generation and summary creation, enhancing content analysis and annotation.",
-        "Automated text extraction and summarization from PDFs and websites using open-source Large Language Models (LLMs) and advanced NLP techniques.",
-        "Designed and optimized data pipelines using Python, MongoDB, and FastAPI, enhancing data handling and reporting efficiency. Applied data analysis and visualization techniques to generate insights, improving reporting accuracy.",
-        "Created a scalable recommendation system with Dask and BERT embeddings for semantic text analysis. Implemented ChromaDB and Flask API for scalable data querying and dynamic recommendations.",
-        "Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications."
-      ]
+      description: "\n• Object Detection Pipeline: Developed a YOLO-based pipeline for object detection in video frames, enabling keyword-based clip generation and summary creation, enhancing content analysis and annotation. \n• Text Extraction & Summarization: Automated text extraction and summarization from PDFs and websites using open-source Large Language Models (LLMs) and advanced NLP techniques. \n• Data Processing & Analysis Pipelines: Designed and optimized data pipelines using Python, MongoDB, and FastAPI, enhancing data handling and reporting efficiency. Applied data analysis and visualization techniques to generate insights, improving reporting accuracy. \n• Blog Recommendation System: Created a scalable recommendation system with Dask and BERT embeddings for semantic text analysis. Implemented ChromaDB and Flask API for scalable data querying and dynamic recommendations. \n• NLP & AI Exploration: Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications."
     },
     
     {
       title: "Generative AI",
       company: "Open Weaver",
       duration: "June 2023",
-      description: ["Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. As a project, I built NarrativAI, which generates stories and poems."]
+      description: "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. As a project, I built NarrativAI, which generates stories and poems."
     }
   ]
 };
