@@ -2,8 +2,10 @@ import React from "react";
 import "./Experience.css";
 import { experience } from "../../data/portfolio";
 import ReactMarkdown from "react-markdown";
+
 const Experience = () => {
   const { title, experiences } = experience;
+
   return (
     <section className="experience" id="experience">
       <h1>{title}</h1>
@@ -25,5 +27,3 @@ const Experience = () => {
     </section>
   );
 };
-
-export default Experience;
