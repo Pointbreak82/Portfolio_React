@@ -62,13 +62,22 @@ const projects = {
 const experience = {
   title: "Internship",
   experiences: [
+    {  
+      title: "AI Engineer",
+      company:"Go Academy/ Go Labs",
+      duration: "April 2024 - present",
+      descrption:"
+      
+
+    },
     {
       title: "Generative AI",
       company: "Open Weaver",
       duration: "June 2023",
       description:
         "Virtual internship on Generative AI that enables learning and collaboration in building applications through open-source reuse with kandi. And as a project, I built NarrativAI which generates Stories and poems.",
-    },
+    }
+  
   ],
 };
 
@@ -78,20 +87,13 @@ const skills = {
     {
       title: "Programming Languages",
       skills: [
-
-       "Python,",
-        "C,",
-        "HTML,",
-        "Java,",
-        "R,",
-        "SQL,",
-        "MATLAB"
-
+      "Python", "Java", "R", "SQL", "HTML", "C", "AWS", "Machine Learning", "Statistical Analysis", "Natural Language Processing", "Image and Video Analytics", "Deep Learning"
       ],
     },
     {
       title: "Tools & IDE",
-      skills: ["Visual Studio Code,", "PowerBI,","Excel","Tableau"],
+      skills: ["Power BI", "Tableau", "MS Excel", "MongoDB", "ChromaDB", "FastAPI", "Flask", "PyTorch", "Keras", "Scikit-learn", "Hugging Face Transformers", "LangChain", "BeautifulSoup"
+],
     },
     /*
     {
