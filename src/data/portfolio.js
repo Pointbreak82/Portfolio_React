@@ -62,7 +62,6 @@ const projects = {
 const experience = {
   title: "Internship",
   experiences: [
-    /*
     {  
       title: "AI Engineer",
       company: "Go Academy/ Go Labs",
@@ -75,7 +74,7 @@ const experience = {
         "Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications."
       ]
     },
-    */
+    
     {
       title: "Generative AI",
       company: "Open Weaver",
