@@ -9,6 +9,7 @@
   margin-top: 2rem;
   display: grid;
   grid-template-rows: repeat(auto-fill, 1fr);
+  gap: 20px
 }
 
 .experience-container-grid .experience-card {
@@ -41,38 +42,9 @@
   font-style: italic;
 }
 
-.experience-container-grid {
-  display: flex;
-  flex-direction: column; /* Stack the cards vertically */
-  padding: 20px; /* Optional: Add padding to the container */
-}
-
-.experience-card {
-  background-color: #fff; /* Optional: Set background color for cards */
-  border: 1px solid #ddd; /* Optional: Add border for distinction */
-  border-radius: 8px; /* Optional: Rounded corners */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
-  padding: 20px; /* Internal padding for card content */
-  box-sizing: border-box; /* Include padding and border in width calculation */
-  margin-bottom: 20px; /* Add gap between each card */
-}
-
-.experience-card:last-child {
-  margin-bottom: 0; /* Remove the margin from the last card to avoid extra space */
-}
-
 .experience-card .experience-description {
   margin-top: 1rem;
   text-align: justify;
-}
-
-.experience-description ul {
-  list-style-type: disc;
-  margin-left: 20px;
-}
-
-.experience-description li {
-  margin-bottom: 8px;
 }
 
 @media screen and (min-width: 320px) and (max-width: 480px) {
