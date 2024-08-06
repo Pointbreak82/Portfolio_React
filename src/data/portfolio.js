@@ -1,7 +1,7 @@
 const about = {
   title: "Hello there, I am Tarun V G.",
   description:
-    "I'm a tech-savvy optimist, currently pursuing my post-graduation in Data Science at Christ University, Bangalore. I thrive in fast-paced environments, embracing challenges with gusto. Adept at communication and collaboration, I'm all about making a positive impact! ✨🚀",
+    "I'm a tech-savvy and dynamic individual, a Data Science graduate with a master’s degree. I thrive in fast-paced environments, embracing challenges with gusto. Adept at communication and collaboration, I'm all about making a positive impact! ✨🚀",
   github: "https://github.com/Pointbreak82",
   linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
   cv: "https://drive.google.com/file/d/1YE-CXJwhmCtyQ3S2asik7Icy4s-otaTA/view?usp=sharing", 
@@ -31,7 +31,7 @@ const projects = {
       "TensorFlow", "Keras", "Streamlit", "Python"
       ],
       github: "https://github.com/Pointbreak82/Toxic-Comment-2",
-      //demo: "https://www.novypro.com/project/us-sales-dash",
+      demo: "https://ieeexplore.ieee.org/document/10594466",
 
     },
     
