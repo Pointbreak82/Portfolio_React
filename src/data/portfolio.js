@@ -66,7 +66,13 @@ const experience = {
       title: "AI Engineer",
       company:"Go Academy/ Go Labs",
       duration: "April 2024 - present",
-      descrption:""
+      descrption:[
+        "Developed a YOLO-based pipeline for object detection in video frames, enabling keyword-based clip generation and summary creation, enhancing content analysis and annotation.",
+        "Automated text extraction and summarization from PDFs and websites using open-source Large Language Models (LLMs) and advanced NLP techniques.",
+        "Designed and optimized data pipelines using Python, MongoDB, and FastAPI, enhancing data handling and reporting efficiency. Applied data analysis and visualization techniques to generate insights, improving reporting accuracy.",
+        "Created a scalable recommendation system with Dask and BERT embeddings for semantic text analysis. Implemented ChromaDB and Flask API for scalable data querying and dynamic recommendations.",
+        "Explored Llama 2, Llama 3, and LangChain for advanced NLP and AI applications."
+      ]
       
 
     },
@@ -89,7 +95,7 @@ const skills = {
       skills: ["Python", "Java", "R", "SQL", "HTML", "C", "AWS", "Machine Learning", "Statistical Analysis", "Natural Language Processing", "Image and Video Analytics", "Deep Learning"],
     },
     {
-      title: "Tools & IDE",
+      title: "Tools & Libraries",
       skills: ["Power BI", "Tableau", "MS Excel", "MongoDB", "ChromaDB", "FastAPI", "Flask", "PyTorch", "Keras", "Scikit-learn", "Hugging Face Transformers", "LangChain", "BeautifulSoup"],
     },
     /*
