@@ -60,8 +60,23 @@ const projects = {
 };
 
 const experience = {
-  title: "Internship",
+  title: "Experience",
   experiences: [
+    {
+      title: "AI Technology Consultant",
+      company: "Inferworks",
+      duration: "August 2024 – Present",
+      description: `
+**Enterprise AI Quality Engineering Platform**
+- Built an event-driven AI testing platform for shift-left engineering with a multi-agent requirements intelligence pipeline powered by vLLM-backed LLM serving that identifies requirement ambiguities using 5C and INVEST principles, refines user stories, generates acceptance criteria, and creates comprehensive test scenarios. Engineered autonomous test generation systems producing Playwright-based UI automation and API test suites, implemented feature-level intelligence that cut regression suite size by 40–60% per release, and developed a Kafka-based orchestration layer with Redis and Milvus for context management and knowledge graphs with 10M+ historical artifacts, supporting 100+ concurrent pipelines.
+
+**Multi-Agent Orchestrator Framework**
+- Led the design and implementation of a multi-agent orchestration framework using CrewAI to automate ITIL workflows with vLLM-based LLM serving for semantic classification, intent detection, and intelligent agent delegation. Engineered scalable context and retrieval layers using Redis for session memory, Milvus for vector embedding storage, and custom connectors for Microsoft 365, Confluence, ServiceNow, and PDF repositories, enabling enterprise-grade RAG with low-latency vLLM inference.
+
+**Quick Commerce Data Pipeline and Analytics**
+- Built a scalable web scraping pipeline for Quick Commerce platforms using Selenium, BeautifulSoup, and Dask with API-based crawlers making it 9× faster, developed a FastAPI-based self-serve client onboarding platform using Playwright and ScrapeGraphAI for AI-driven keyword generation enabling end-to-end onboarding in under 10 minutes, and created interactive Retool dashboards used by 15+ stakeholders delivering real-time insights across 20k+ SKUs with AI-driven bid recommendations improving ROAS.
+      `
+    },
     {
       title: "AI Engineer",
       company: "Go Academy/ Go Labs",
@@ -87,12 +102,12 @@ const skills = {
   title: "Skills",
   mySkills: [
     {
-      title: "Programming Languages",
-      skills: ["Python", "Java", "R", "SQL", "HTML", "C", "AWS", "Machine Learning", "Statistical Analysis", "Natural Language Processing", "Image and Video Analytics", "Deep Learning"],
+      title: "Technical Skills",
+      skills: ["Python", "SQL", "Java", "Event-Driven Architectures", "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision", "Time Series Analysis", "Statistical Analysis", "Data Engineering"],
     },
     {
       title: "Tools & Libraries",
-      skills: ["Power BI", "Tableau", "MS Excel", "MongoDB", "ChromaDB", "FastAPI", "Flask", "PyTorch", "Keras", "Scikit-learn", "Hugging Face Transformers", "LangChain", "BeautifulSoup"],
+      skills: ["vLLM", "CrewAI", "LangGraph", "LangChain", "Hugging Face Transformers", "PyTorch", "TensorFlow", "Keras", "Scikit-learn", "YOLO", "Kafka", "Redis", "MongoDB", "PostgreSQL", "Neo4j", "Milvus", "ChromaDB", "AWS (S3 and compute services)", "FastAPI", "Flask", "SQLAlchemy", "Playwright", "Selenium", "BeautifulSoup", "Retool", "Power BI", "Tableau"],
     },
     /*
     {
