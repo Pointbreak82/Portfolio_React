@@ -6,7 +6,7 @@
 .skills-container-grid {
   margin-top: 2rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 20px;
 }
 
@@ -44,6 +44,9 @@
 
 /* mobile phones */
 @media (max-width: 768px) {
+  .skills-container-grid {
+    grid-template-columns: 1fr;
+  }
   .skills-container-grid .skills-card .skills-stack {
     justify-content: center;
     align-items: center;
