@@ -68,15 +68,18 @@ const experience = {
       duration: "August 2024 – Present",
       description: `
 **Enterprise AI Quality Engineering Platform**
+
 - Built an event-driven AI testing platform for shift-left engineering with a multi-agent requirements intelligence pipeline powered by vLLM-backed LLM serving that identifies requirement ambiguities using 5C and INVEST principles, refines user stories, generates acceptance criteria, and creates comprehensive test scenarios.
 - Engineered autonomous test generation systems producing Playwright-based UI automation and API test suites, implemented feature-level intelligence that cut regression suite size by 40–60% per release.
 - Developed a Kafka-based orchestration layer with Redis and Milvus for context management and knowledge graphs with 10M+ historical artifacts, supporting 100+ concurrent pipelines.
 
 **Multi-Agent Orchestrator Framework**
+
 - Led the design and implementation of a multi-agent orchestration framework using CrewAI to automate ITIL workflows with vLLM-based LLM serving for semantic classification, intent detection, and intelligent agent delegation.
 - Engineered scalable context and retrieval layers using Redis for session memory, Milvus for vector embedding storage, and custom connectors for Microsoft 365, Confluence, ServiceNow, and PDF repositories, enabling enterprise-grade RAG with low-latency vLLM inference.
 
 **Quick Commerce Data Pipeline and Analytics**
+
 - Built a scalable web scraping pipeline for Quick Commerce platforms using Selenium, BeautifulSoup, and Dask with API-based crawlers making it 9× faster.
 - Developed a FastAPI-based self-serve client onboarding platform using Playwright and ScrapeGraphAI for AI-driven keyword generation enabling end-to-end onboarding in under 10 minutes.
 - Created interactive Retool dashboards used by 15+ stakeholders delivering real-time insights across 20k+ SKUs with AI-driven bid recommendations improving ROAS.
