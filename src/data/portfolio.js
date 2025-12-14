@@ -1,7 +1,7 @@
 const about = {
   title: "Hello there, I am Tarun V G.",
   description:
-    "I'm a tech-savvy and dynamic individual, a Data Science graduate with a master’s degree. I thrive in fast-paced environments, embracing challenges with gusto. Adept at communication and collaboration, I'm all about making a positive impact! ✨🚀",
+    "I’m a tech-savvy and dynamic individual, a Data Science graduate with a master’s degree, with hands-on experience building enterprise-grade AI systems across multiple domains. I thrive in fast-paced environments, tackling complex problems and delivering scalable, data-driven solutions. Adept at communication and cross-functional collaboration, I focus on translating cutting-edge AI research into reliable, production-ready systems that create measurable business impact.",
   github: "https://github.com/Pointbreak82",
   linkedin: "https://www.linkedin.com/in/tarun-v-g-270759206",
   cv: "https://drive.google.com/file/d/1YE-CXJwhmCtyQ3S2asik7Icy4s-otaTA/view?usp=sharing", 
